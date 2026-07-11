@@ -23,7 +23,7 @@ The project demonstrates the fundamentals of Computer Vision, including image pr
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * Python
 * OpenCV
