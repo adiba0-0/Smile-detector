@@ -101,7 +101,7 @@ Press **ESC** to close the webcam window.
 * Replace Haar Cascades with modern deep learning models
 * Build a desktop GUI
 
-## 👩‍💻 Author
+## Author
 
 Built while learning **Computer Vision with Python and OpenCV**.
 
